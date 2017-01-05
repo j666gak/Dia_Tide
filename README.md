@@ -14,4 +14,4 @@ Python = 2.7 <p>
 Diasend format = 5th Jan 2017 <p>
  <p>
 ## Terms & Conditions
-Script is used at users own risk, including but no limited to data and computer system. No support/updates/communication are implied or intended.
+Script is used at own risk, including but no limited to data and computer system. No support/updates/communication are implied or intended. The script MUST not be used in any commercial or business capacity.
