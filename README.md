@@ -13,10 +13,10 @@ Over the past number of years I have accumalated a number of different blood tes
 * On line 169 of tide_0_2.py you need to replace text with the email address and password you have created for Tidepool
 * Optional - Line 172 / 173 text can be edited before uploading to add a device name for either your BGM or CGM
 <p>
-- Static Configuration
-Timezone = Europe/London
-Units = mmol/L
-
+Static Configuration <p>
+Timezone = Europe/London <p>
+Units = mmol/L <p>
+<p>
 ## Sucessfuly Tested On
 O/S = Windows 8 <p>
 Python = 2.7 <p>
