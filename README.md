@@ -16,7 +16,7 @@ Over the past number of years I have accumalated a number of different blood tes
 Static Configuration <p>
 Timezone = Europe/London <p>
 Units = mmol/L <p>
-<p>
+
 ## Sucessfuly Tested On
 O/S = Windows 8 <p>
 Python = 2.7 <p>
