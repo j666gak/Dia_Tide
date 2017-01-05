@@ -7,7 +7,7 @@ Over the past number of years I have accumalated a number of different blood tes
  I hope you find this as useful as I have.
  <p>
  Special thanks to tk2 from Freelancer.com who worked on this project (code) with me.
- <p>
+
  ## Configuration
 * Your export from Diasend.com must be named diasend.xls and stored in the same folder as as tide_0_2.py
 * On line 169 of tide_0_2.py you need to replace text with the email address and password you have created for Tidepool
@@ -16,11 +16,11 @@ Over the past number of years I have accumalated a number of different blood tes
 <b>Static Configuration
 Timezone = Europe/London
 Units = mmol/L
-<p>
+
 ## Sucessfuly Tested On
 O/S = Windows 8 <p>
 Python = 2.7 <p>
 Diasend format = 5th Jan 2017 <p>
- <p>
+
 ## Terms & Conditions
 Script is used at own risk, including but no limited to data and computer system. No support/updates/communication are implied or intended. The script MUST not be used in any commercial or business capacity.
