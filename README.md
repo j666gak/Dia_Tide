@@ -8,6 +8,15 @@ Over the past number of years I have accumalated a number of different blood tes
  <p>
  Special thanks to tk2 from Freelancer.com who worked on this project (code) with me.
  <p>
+ ## Configuration
+* Your export from Diasend.com must be named diasend.xls and stored in the same folder as as tide_0_2.py
+* On line 169 of tide_0_2.py you need to replace text with the email address and password you have created for Tidepool
+* Optional - Line 172 / 173 text can be edited before uploading to add a device name for either your BGM or CGM
+<p>
+### Static Configuration
+Timezone = Europe/London
+Units = mmol/L
+<p>
 ## Sucessfuly Tested On
 O/S = Windows 8 <p>
 Python = 2.7 <p>
